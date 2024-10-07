@@ -1,0 +1,18 @@
+
+.error{
+  color: red;
+}
+::placeholder{
+  font-size: 14px;
+  color: rgba(rgb(235, 227, 227), green, blue, alpha);
+  font-weight: 500;
+}
+
+form{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#add{
+  padding-top: 10px;
+}
